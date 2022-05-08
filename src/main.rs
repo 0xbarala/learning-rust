@@ -3,8 +3,14 @@
 // mod types;
 // mod strings;
 // mod tuples;
-mod arrays;
+// mod arrays;
+// mod vectors;
+// mod conditionals;
+// mod loops;
+// mod functions;
+// mod pointer_ref;
+mod structs;
 
 fn main() {
-    arrays::run();
+    structs::run();
 }
